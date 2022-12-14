@@ -1,0 +1,1 @@
+call Gl2vec/Scripts/activate.bat
